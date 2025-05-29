@@ -1,6 +1,6 @@
 # 👋 Hola, soy Iván 👨‍💻
 
-Soy Ingeniero Electrónico en transición a QA Engineering, con experiencia previa en sistemas fotovoltaicos y ahora enfocado en asegurar la calidad del software a través de pruebas manuales y automatizadas. Me apasiona resolver problemas y mejorar productos tecnológicos con precisión y enfoque en los detalles.
+Soy Ingeniero Electrónico en transición a QA Engineering, con experiencia previa en sistemas fotovoltaicos y ahora enfocado en asegurar la calidad del software a través de pruebas manuales y automatizadas. 
 
 🔧 Stack actual: Python, SQL, Git, Pruebas Manuales y Automatizadas  
 📌 Estudiante en TripleTen | QA Engineer en formación  
